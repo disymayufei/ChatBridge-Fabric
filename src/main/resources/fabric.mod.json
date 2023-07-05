@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "chatbridge",
+  "version": "${version}",
+  "name": "ChatBridge-Fabric",
+  "description": "",
+  "authors": [
+    "Disy920"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/ChatBridge-Fabric/icon.png",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "cn.disy920.chatbridgefabric.Main"
+    ]
+  },
+  "mixins": [
+    "chatbridge.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": ">= 1.19"
+  }
+}
