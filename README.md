@@ -1,3 +1,6 @@
+> [!CAUTION]\
+> **本项目已经过时，不再进行任何更新与维护工作。请转移至最新的ChatBridge 2项目，使用Kotlin重构，兼容Fabric与Bukkit双端，[新项目传送门](https://github.com/disymayufei/ChatBridge)**
+
 # ChatBridge-Fabric
 适用于Minecraft Fabric端的一个兼容SLS-Bot的跨服聊天Mod，通过Websocket与SLS-Bot主插件通讯，以MIT协议开源
 
